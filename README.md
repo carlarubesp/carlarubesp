@@ -9,7 +9,7 @@ I'm interested in systems that read data from the real world, make decisions wit
 - Currently working on my final degree project: a digital twin of UAV fleets for informative patrolling of rivers, lakes and ports (ROS 2, Gazebo, software-in-the-loop).
 - Currently learning data engineering and AI governance.
 - Looking to collaborate on IoT and data projects.
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/carlarubesp)
+- How to reach me: [in/carlarubesp](https://www.linkedin.com/in/carlarubesp)
 
 ## Tech stack
 
